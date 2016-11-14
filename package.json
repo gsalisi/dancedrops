@@ -1,0 +1,19 @@
+{
+  "name": "dancedrops",
+  "version": "1.0.0",
+  "description": "A platform for dancers, dance companies and dance studios",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/gsalisi/dancedrops.git"
+  },
+  "author": "Geoffrey Salisi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gsalisi/dancedrops/issues"
+  },
+  "homepage": "https://github.com/gsalisi/dancedrops#readme"
+}
